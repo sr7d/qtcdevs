@@ -1,0 +1,106 @@
+#-------------------------------
+# Site Settings
+title: Salesforce CPQ best practices and implementation guides
+# logo: /images/logo.png
+description: Discover best practices or download prebuilt solutions for Salesforce CPQ
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Skylar Rhodes
+  author__bio: Hey, I'm Skylar Rhodes, a Salesforce Quote-to-Cash Architect. I created QTCdev's to fill the void of information that developers, admins, and product owners face while navigating the complicated world of Salesforce Revenue. I hope you find this site an invaluable resource. Please feel free to reach out to me for collaboration, business inquiries, or just to say "hi"!
+  author__avatar: /images/01-1.jpg
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Data Models'
+      submenu:
+      - url: '/salesforce-cpq-data-model/'
+        title: 'CPQ Primary Objects'
+    - title: 'Packages'
+      submenu:
+      - url: '/user-product-filters/'
+        title: 'User Product Filters'               
+    - title: 'Authors'
+      url: '/authors/'
+    - title: 'Submit Article'
+      url: '/contact/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: s
+#-------------------------------
+# Blog Settings
+blog:
+  blog__title: Salesforce Quote-to-Cash Developers
+  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <em>Configure Price Quote</em> and <em>Revenue Lifecycle Management</em>
+  # blog__call-to-action: Browse the articles below or go straight to  
+
+#-------------------------------
+# Recommended Tag Settings
+tag:
+  enable: true
+  tag__title: Video Guides
+  tag__name: video-guides
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__input__text: Your Email Address...
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: "/images/110.jpg"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:      
+    - title: 'Submit Article'
+      url: '/contact/'
+    - url: '/salesforce-cpq-data-model/'
+      title: 'Data Models / CPQ Primary Objects' 
+    - url: '/user-product-filters/'
+      title: 'Package / User Product Filters'    
+
+
+# Social Links
+social:
+- {icon: "ion-logo-linkedin", color: "#55acee", name: Linkedin, link: "https://www.linkedin.com/in/skylarrhodes/"}
+- {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://www.youtube.com/@cpqdev"}
+- {icon: "ion-logo-github", color: "#ff0000", name: Github, link: "https://www.github.com/sr7d"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  endpoint: https://formspree.io/f/xpzgylpq
+
+# NOTE
+# Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: cpqdev # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-RVLJ96FCEK
