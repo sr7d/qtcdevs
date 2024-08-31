@@ -21,6 +21,8 @@ menu__settings:
       submenu:
       - url: '/salesforce-cpq-data-model/'
         title: 'CPQ Primary Objects'
+      - url: '/salesforce-rlm-data-model/'
+        title: 'RLM Data Model'
     - title: 'Free Packages'
       submenu:
       - url: '/user-product-filters/'
