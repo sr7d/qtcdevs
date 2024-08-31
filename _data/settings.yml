@@ -24,7 +24,7 @@ menu__settings:
     - title: 'Free Packages'
       submenu:
       - url: '/user-product-filters/'
-        title: 'User Product Filters'               
+        title: 'CPQ User Product Filters'               
     - title: 'Authors'
       url: '/authors/'
     - title: 'Submit Article'
