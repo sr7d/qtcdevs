@@ -6,7 +6,7 @@ date: 2024-08-29 15:01:35 +0300
 author: admin
 image: /images/RLMProductConfig.png
 image_caption: 
-tags: [rlm]
+tags: [rlm,basics]
 featured:
 video_embed: 
 ---
