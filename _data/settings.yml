@@ -39,7 +39,7 @@ hero:
 # Blog Settings
 blog:
   blog__title: Salesforce Quote-to-Cash Developers
-  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <em>Configure Price Quote</em> and <em>Revenue Lifecycle Management</em>
+  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <a href="/tags/?tag=cpq"><u><em>Configure Price Quote</em></u></a> and <a href="/tags/?tag=rlm"><u><em>Revenue Lifecycle Management</em></u></a>
   # blog__call-to-action: Browse the articles below or go straight to  
 
 #-------------------------------
