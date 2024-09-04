@@ -4,7 +4,7 @@ title: Use a Salesforce CPQ API in Flows
 description: Learn to extend Salesforce CPQ using Flow and Apex. Follow this guide to create an Apex class with an invocable method, enabling efficient contract amendments. Integrate this solution into Flow for flexibility, suitable for bulk amendments, portals, or programmatic use, all while managing your business logic in Flow.
 date: 2023-10-27 15:01:35 +0300
 author: admin
-image: /images/SalesforceAmenderApiInvoke.jpg
+image: /images/SalesforceAmenderApiInvoke.png
 image_caption: 
 tags: [cpq,code,flow,api]
 featured:

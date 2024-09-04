@@ -26,11 +26,13 @@ menu__settings:
     - title: 'Free Packages'
       submenu:
       - url: '/user-product-filters/'
-        title: 'CPQ User Product Filters'               
-    - title: 'Authors'
-      url: '/authors/'
-    - title: 'Submit Article'
-      url: '/contact/'
+        title: 'CPQ User Product Filters'
+    - title: 'Content'
+      submenu:
+      - url: '/authors/'
+        title: 'Authors'
+      - url: '/contact/'
+        title: 'Submit'               
 
 
 #-------------------------------
@@ -41,7 +43,7 @@ hero:
 # Blog Settings
 blog:
   blog__title: Salesforce Quote-to-Cash Developers
-  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <a href="/tags/?tag=cpq"><u><em>Configure Price Quote</em></u></a> and <a href="/tags/?tag=rlm"><u><em>Revenue Lifecycle Management</em></u></a>
+  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <a href="/tags/?tag=cpq"><em>Configure Price Quote</em></a> and <a href="/tags/?tag=rlm"><em>Revenue Lifecycle Management</em></a>
   # blog__call-to-action: Browse the articles below or go straight to  
 
 #-------------------------------
