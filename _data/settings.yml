@@ -71,7 +71,9 @@ mailchimp:
 
 # Footer Navigation
 footer__menu__settings:
-  menu__items:      
+  menu__items: 
+    - title: 'Authors'
+      url: '/authors/'     
     - title: 'Submit Article'
       url: '/contact/'
     - url: '/salesforce-cpq-data-model/'
