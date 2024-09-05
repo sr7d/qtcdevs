@@ -4,7 +4,7 @@ title: Templatize Quotes with Favorite Bundles
 description: Create Collections of Favorite Products for Seamless Quoting. Discover how to streamline your quoting process and boost productivity with this powerful feature.
 date: 2023-08-18 15:01:35 +0300
 author: admin
-image: /images/FavoriteGroups.jpg
+image: /images/FavoriteGroups.png
 image_caption: 
 tags: [cpq,best-practices]
 featured:

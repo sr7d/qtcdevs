@@ -4,7 +4,7 @@ title: Price Rule Logging in Salesforce CPQ
 description: This guide outlines the process of implementing Salesforce logging for price rules in the CPQ system. It covers the importance of price rule logging, creating a rich text field, resetting it to avoid data issues, updating price rules, and offers a solution for automation. This resource helps businesses streamline pricing strategy management and sales processes in Salesforce CPQ.
 date: 2023-10-19 15:01:35 +0300
 author: admin
-image: /images/PriceRuleLogging.jpg
+image: /images/PriceRuleLogging.png
 image_caption: 
 tags: [cpq,logging,video-guides]
 featured:
