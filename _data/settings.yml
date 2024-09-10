@@ -21,7 +21,7 @@ menu__settings:
       submenu:
       - url: '/salesforce-cpq-data-model/'
         title: 'CPQ Primary Objects'
-      - url: '/salesforce-rlm-data-model/'
+      - url: '/salesforce-revenue-cloud-data-model/'
         title: 'Revenue Cloud Data Model'
     - title: 'Free Packages'
       submenu:
