@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Salesforce CPQ & RLM best practices and implementation guides
+title: Salesforce CPQ & Revenue Cloud best practices and implementation guides
 # logo: /images/logo.png
 description: Discover best practices or download prebuilt solutions for Salesforce CPQ
 
@@ -22,7 +22,7 @@ menu__settings:
       - url: '/salesforce-cpq-data-model/'
         title: 'CPQ Primary Objects'
       - url: '/salesforce-rlm-data-model/'
-        title: 'RLM Data Model'
+        title: 'Revenue Cloud Data Model'
     - title: 'Free Packages'
       submenu:
       - url: '/user-product-filters/'
@@ -43,7 +43,7 @@ hero:
 # Blog Settings
 blog:
   blog__title: Salesforce Quote-to-Cash Developers
-  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <a href="/tags/?tag=cpq"><em>Configure Price Quote</em></a> and <a href="/tags/?tag=rlm"><em>Revenue Lifecycle Management</em></a>
+  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <a href="/tags/?tag=cpq"><em>Configure Price Quote</em></a> and <a href="/tags/?tag=revenue-cloud"><em>Revenue Cloud</em></a>
   # blog__call-to-action: Browse the articles below or go straight to  
 
 #-------------------------------
