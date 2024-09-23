@@ -9,7 +9,7 @@ description: Discover best practices or download prebuilt solutions for Salesfor
 # Author Global Settings
 author:
   author__name: Skylar Rhodes
-  author__bio: Hey, I'm Skylar Rhodes, a Salesforce Quote-to-Cash Architect. I created QTCdev's to fill the void of information that developers, admins, and product owners face while navigating the complicated world of Salesforce Revenue. I hope you find this site an invaluable resource. Please feel free to reach out to me for collaboration, business inquiries, or just to say "hi"!
+  author__bio: Hey, I'm Skylar Rhodes, a Salesforce Quote-to-Cash Architect. I created CPQDevelopers to fill the void of information that developers, admins, and product owners face while navigating the complicated world of Salesforce Revenue. I hope you find this site an invaluable resource. Please feel free to reach out to me for collaboration, business inquiries, or just to say "Hi"!
   author__avatar: /images/01-1.jpg
 
 
@@ -23,28 +23,32 @@ menu__settings:
         title: 'CPQ Primary Objects'
       - url: '/salesforce-revenue-cloud-data-model/'
         title: 'Revenue Cloud Data Model'
-    - title: 'Free Packages'
+    - title: 'Packages'
       submenu:
       - url: '/user-product-filters/'
         title: 'CPQ User Product Filters'
-    - title: 'Content'
+    - title: 'Calculators'
       submenu:
-      - url: '/authors/'
-        title: 'Authors'
+      - url: '/cpq-price-waterfall-calculator/'
+        title: 'CPQ Price Waterfall'   
+    - title: 'Contact'
+      submenu:
       - url: '/contact/'
-        title: 'Submit'               
+        title: 'CPQDEV LLC' 
+      - url: '/authors/'
+        title: 'Our Authors'           
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: s
+  hero__title: 
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Salesforce Quote-to-Cash Developers
-  blog__description: go-to resource for expert tips, strategies, and tutorials on mastering <a href="/tags/?tag=cpq"><em>Configure Price Quote</em></a> and <a href="/tags/?tag=revenue-cloud"><em>Revenue Cloud</em></a>
-  # blog__call-to-action: Browse the articles below or go straight to  
+  blog__title: Optimize Salesforce CPQ & Revenue Cloud
+  blog__description: Strategies, guides, diagrams, and free resources to master <a href="/tags/?tag=cpq"><em>Salesforce CPQ</em></a> and the <a href="/tags/?tag=revenue-cloud"><em>New Revenue Cloud</em></a>. If you're looking for personalized support, schedule a free consultation with our experts!
+   # blog__call-to-action: Browse the articles below or go straight to  
 
 #-------------------------------
 # Recommended Tag Settings
@@ -72,14 +76,10 @@ mailchimp:
 # Footer Navigation
 footer__menu__settings:
   menu__items: 
+    - title: 'CPQDEV LLC'
+      url: '/contact/' 
     - title: 'Authors'
-      url: '/authors/'     
-    - title: 'Submit Article'
-      url: '/contact/'
-    - url: '/salesforce-cpq-data-model/'
-      title: 'Data Models / CPQ Primary Objects' 
-    - url: '/user-product-filters/'
-      title: 'Package / User Product Filters'    
+      url: '/authors/'       
 
 
 # Social Links
@@ -105,7 +105,7 @@ contact:
 # Comment Section (Disqus)
 disqus:
   enable: false
-  disqus__identifier: cpqdev # Add your shortname for Disqus Comment. For example anvod-studio-test
+  disqus__identifier: cpqdevelopers # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 #-------------------------------
 # Google Analytics

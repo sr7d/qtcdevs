@@ -247,6 +247,12 @@
   }
 }
 
+.post-video{
+  max-width: 800px;
+  margin: 0 auto; /* Centers the video */
+  display: flex; /* Enables flexbox layout */
+  justify-content: center; /* Centers the content horizontally */
+}
 .post-video,
 .page-video {
   border-radius: 12px;
